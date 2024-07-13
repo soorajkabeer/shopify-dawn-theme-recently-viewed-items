@@ -11,7 +11,6 @@ The section name is set as Recently Viewed Products
 
 ## Customization
 
----
 
 ### Section Settings
 
