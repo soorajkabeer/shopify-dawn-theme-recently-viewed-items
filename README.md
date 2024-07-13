@@ -85,15 +85,6 @@ A small hover effect is added to card, that if enabled, on hover the product car
 
 ## Screenshots
 
-Section Selection
-![Section Selection](assets/screenshots/screenshot-1.jpg)
-
-Section Settings
-![Section Settings](assets/screenshots/screenshot-2.jpg)
-
-Section Preview
-![Section Preview](assets/screenshots/screenshot-3.png)
-
 Section Hover effect -
 ![Section hover effect](assets/screenshots/screenshot-4.gif)
 
