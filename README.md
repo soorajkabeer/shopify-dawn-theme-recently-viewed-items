@@ -88,6 +88,10 @@ A small hover effect is added to card, that if enabled, on hover the product car
 Section Hover effect -
 ![Section hover effect](assets/screenshots/screenshot-4.gif)
 
+## Product import reference
+
+- [Shopify Product CSVs and Images](https://github.com/shopifypartners/product-csvs)
+
 ## Authors
 
 - [@soorajkabeer](https://github.com/soorajkabeer)
