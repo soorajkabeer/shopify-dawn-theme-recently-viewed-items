@@ -7,7 +7,11 @@ The section name is set as Recently Viewed Products
 
 ![Section Selection](assets/readme/installation.jpg)
 
+---
+
 ## Customization
+
+---
 
 ### Section Settings
 
@@ -42,6 +46,8 @@ The top and bottom padding of the section can be adjusted by selecting the appro
 ![Section background](assets/readme/section-background.jpg)
 
 The background for the entire section can be assigned using this color picker, this can also pick dynamic color values like brand primary color using the icon.
+
+---
 
 ### Product card settings
 
@@ -83,14 +89,20 @@ A small hover effect is added to card, that if enabled, on hover the product car
 
 ![Add to cart button](assets/readme/enable-hover-effect.jpg)
 
+---
+
 ## Screenshots
 
 Section Hover effect -
 ![Section hover effect](assets/screenshots/screenshot-4.gif)
 
+---
+
 ## Product import reference
 
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/product-csvs)
+
+---
 
 ## Authors
 
