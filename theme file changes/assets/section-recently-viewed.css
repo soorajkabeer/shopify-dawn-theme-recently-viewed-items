@@ -1,0 +1,30 @@
+.recently-viewed-container {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.recently-viewed-container img {
+  width: 100%;
+  height: auto;
+}
+.no-a-style,
+.no-a-style p {
+  text-decoration: none;
+}
+.recently-viewed-price {
+  color: rgb(var(--color-foreground));
+}
+.title-not-display {
+  display: none;
+}
+.recently-viewed-item:hover .h5 {
+  text-decoration: underline;
+}
+.recently-viewed-heading {
+  margin: 0 0 3rem;
+}
+@media (max-width: 768px) {
+  .recently-viewed-container {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+  }
+}
